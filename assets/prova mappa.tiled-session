@@ -1,0 +1,91 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Chest.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tutti i file (*)",
+    "fileStates": {
+        "Beach_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/4BINFO/IdeaProjects/Mappe/assets/Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/4BINFO/IdeaProjects/Mappe/assets/esempio.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/4BINFO/IdeaProjects/Mappe/assets/mappa1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1280.3333333333333,
+                "y": 320.3333333333333
+            }
+        },
+        "Chest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Oak_Tree.tsx": {
+            "scaleInDock": 1
+        },
+        "Water_Middle.tsx": {
+            "scaleInDock": 1
+        },
+        "Y0u70p14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Y0u7op14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "prova mappa.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 240,
+                "y": 159.75
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/4BINFO/IdeaProjects/Persona6Reforged/assets/Cute_Fantasy_Free/Outdoor decoration",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "prova mappa.tmx",
+        "Beach_Tile.tsx",
+        "Chest.tsx"
+    ],
+    "project": "prova mappa.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "prova mappa.tmx",
+        "Beach_Tile.tsx",
+        "Chest.tsx",
+        "Y0u7op14.tsx",
+        "Y0u70p14.tsx",
+        "C:/Users/4BINFO/IdeaProjects/Mappe/assets/esempio.tsx",
+        "C:/Users/4BINFO/IdeaProjects/Mappe/assets/mappa1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

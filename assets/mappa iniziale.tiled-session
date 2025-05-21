@@ -1,0 +1,195 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "NewYoutopia.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tutti i file (*)",
+    "fileStates": {
+        "Beach_Tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Beach_Tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/City.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/OggettiYoutopia.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Y0u7op14.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Youtopia.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -273,
+                "y": 423.5
+            }
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Youtopia111.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Youtopia2.0.tmx": {
+            "scale": 1.128125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 127.64542936288092,
+                "y": 384.26592797783934
+            }
+        },
+        "Chest.tsx": {
+            "scaleInDock": 1
+        },
+        "City.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Inizio.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 0.8357031249999999,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 126.83930073852486,
+                "y": -0.5982985883891843
+            }
+        },
+        "NewYoutopia.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 171,
+                "y": -249.5
+            }
+        },
+        "Oak_Tree.tsx": {
+            "scaleInDock": 1
+        },
+        "OggettiYoutopia.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Terra.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Water_Middle.tsx": {
+            "scaleInDock": 1
+        },
+        "Y0u70p14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Y0u7op14.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Youtopia.tmx": {
+            "expandedGroupLayers": [
+                6,
+                9,
+                4,
+                7
+            ],
+            "expandedObjectLayers": [
+                6,
+                16,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": -256,
+                "y": 255.33333333333326
+            }
+        },
+        "mappa iniziale.tmx": {
+            "expandedObjectLayers": [
+                9,
+                7,
+                8
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 304.5,
+                "y": 256.75
+            }
+        },
+        "newyoutopia.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 4,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 447.5,
+                "y": 76.875
+            }
+        },
+        "prova mappa.tmx": {
+            "scale": 2.1434375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.8017203674005,
+                "y": 159.7900568596005
+            }
+        },
+        "puzzle.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 245.5,
+                "y": 153.25
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Olife/OneDrive/Desktop/Persona6Reforged/assets",
+    "last.externalTilesetPath": "C:/Users/Olife/OneDrive/Desktop/Persona6Reforged/assets",
+    "last.imagePath": "C:/Users/Olife/OneDrive/Desktop/Persona6Reforged/assets",
+    "map.fixedSize": false,
+    "map.height": 25,
+    "map.lastUsedExportFilter": "Tutti i file (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "mappa iniziale.tmx",
+        "puzzle.tmx",
+        "City.tsx",
+        "Youtopia.tmx",
+        "Y0u7op14.tsx",
+        "OggettiYoutopia.tsx",
+        "NewYoutopia.tmx"
+    ],
+    "project": "mappa iniziale.tiled-project",
+    "recentFiles": [
+        "NewYoutopia.tmx",
+        "mappa iniziale.tmx",
+        "puzzle.tmx",
+        "City.tsx",
+        "OggettiYoutopia.tsx",
+        "Y0u7op14.tsx",
+        "Youtopia.tmx",
+        "prova mappa.tmx",
+        "Inizio.tmx",
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Youtopia.tmx",
+        "C:/Users/Olife/Downloads/Persona6Reforged/assets/Youtopia2.0.tmx",
+        "Y0u70p14.tsx"
+    ]
+}
